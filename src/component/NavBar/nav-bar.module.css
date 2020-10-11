@@ -1,0 +1,19 @@
+.NavBar{
+    display: inline-block;
+    height: 100%;
+    margin-left: 50px;
+    padding-top: 10px;
+}
+.homeStyle{
+    font-size: 40px;
+    color: red;
+    text-align: center;
+}
+.navLink{
+    font-size: 20px;
+    margin: auto 50px;
+    border-radius: 10px;
+}
+.navLink:hover,.navLink:active{
+    background-color: rgba(165, 42, 42, 0.753);
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "cart": [
+        [
+          "samsung-galaxy-a31",
+          2
+        ],
+        [
+          "xiaomi-redmi-note-8-pro-6gb-128gb",
+          1
+        ],
+        [
+          "inh-bang/ipad-pro-12-9-inch-wifi-128gb-2020",
+          1
+        ],
+        [
+          "dtdd/oppo-a92",
+          1
+        ]
+      ],
+      "first_name": "Anna",
+      "last_name": "Smith",
+      "email": "annasmith23@gmail.com"
+    }
+  ]
+}

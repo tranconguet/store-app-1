@@ -1,0 +1,34 @@
+.ProductDetails{
+    text-align: center;
+    height: auto;
+    width: 100%;
+    font-size: 18px;
+}
+.Buttons{
+    margin-bottom: 20px;
+}
+.Info {
+    text-align: left;
+}
+.Details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 20px;
+}
+.OldPrice{
+    text-decoration: line-through;
+}
+.Sale{
+    color: red;
+}
+.mButton{
+    display: inline-block;
+    margin: 10px 40px;
+}
+.productDescription{
+    text-align: left;
+}
+.picture{
+    margin: 10px;
+    width: 80%;
+}

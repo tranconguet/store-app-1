@@ -1,0 +1,7 @@
+.PageBuilder{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    grid-column-gap: 20px;
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.Product{
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 15px;
+}
+.img{
+    height: 230px;
+}
+.img img{
+    padding-top: 20px;
+}
+.OldPrice{
+    text-decoration: line-through;
+}
+.Sale{
+    color: red;
+}
+.img img:hover{
+    padding-top: 0px;
+    transition: 0.3s;
+}
